@@ -8,7 +8,9 @@ You are tasked with developing a Library Management System API that allows users
 - `title`: The title of the book (string).
 - `author`: The author of the book (string).
 - `genre`: The genre of the book (e.g., Fiction, Non-fiction, Fantasy, etc.).
-- `year`: The publication year of the book (integer).
+- `year`: The publication year of the book (integer
+
+).
 - `copies`: The number of copies of the book available in the library (integer).
 
 Make sure that the input was clearly validated and is and valid input for the question.
